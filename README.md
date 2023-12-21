@@ -10,7 +10,9 @@ Knee Osteoarthritis is a prevalent joint disease, predominantly affecting older 
 ## Datasets
 We leveraged two principal datasets for this project:
 - **Mendeley Data Platform Dataset (DS-1):** Encompassing over 8,200 X-ray images meticulously labeled from 0 (healthy) to 4 (severe).
+     (https://data.mendeley.com/datasets/56rmx5bjcr/1)
 - **Kaggle Dataset (DS-2):** Consisting of high-quality X-ray images (1,200) with expert medical labeling, specifically developed to enhance dataset richness.
+  (https://www.kaggle.com/datasets/tommyngx/digital-knee-xray/data?select=MedicalExpert-I)
 - Both datasets were preprocessed to ensure image quality and address class imbalances.
 - Labeled from 0-4 based on severity  (0-healthy, 1-doubtful, 2-mild, 3-moderate, 4-severe)
 
@@ -24,6 +26,15 @@ Our methodology involves multiple stages:
    
 ## Results
 Our efforts culminated in a breakthrough in Knee Osteoarthritis severity detection. Notably, the ConvNextBase model achieved an exceptional accuracy of up to 84% post-data augmentation and processing. It is noteworthy to mention that, according to our extensive research, this represents the highest-ever accuracy recorded with Dataset 2, underscoring the significant impact and advancements achieved in our project. These results not only showcase our commitment to excellence but also set a new standard in the accurate classification of Knee OA severity.
+
+![Dataset-1]()
+![Dataset-1]()
+![Dataset-1]()
+![Dataset-1]()
+![Dataset-1]()
+![Dataset-1]()
+![Dataset-1]()
+![Dataset-1]()
 
 ## Conclusion
 Our Deep Learning models present a pioneering approach to detecting Knee Osteoarthritis severity, providing a valuable tool for healthcare professionals. While challenges persist in dataset size and model complexity, our project stands as a noteworthy advancement in the realm of medical imaging analysis.
