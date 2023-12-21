@@ -27,14 +27,26 @@ Our methodology involves multiple stages:
 ## Results
 Our efforts culminated in a breakthrough in Knee Osteoarthritis severity detection. Notably, the ConvNextBase model achieved an exceptional accuracy of up to 84% post-data augmentation and processing. It is noteworthy to mention that, according to our extensive research, this represents the highest-ever accuracy recorded with Dataset 2, underscoring the significant impact and advancements achieved in our project. These results not only showcase our commitment to excellence but also set a new standard in the accurate classification of Knee OA severity.
 
-![Dataset-1]()
-![Dataset-1]()
-![Dataset-1]()
-![Dataset-1]()
-![Dataset-1]()
-![Dataset-1]()
-![Dataset-1]()
-![Dataset-1]()
+### Methodology:
+
+
+<p align="left">
+  <img src="Output_Images/methodology.png" width="600" />
+</p>
+<p float="left">
+  <img src="Output_Images/dataset-1-1.png" width="350" />
+  <img src="Output_Images/dataset-1-2.png" width="300" />
+  <img src="Output_Images/dataset-1-3.png" width="300" />
+</p>
+<p align="left">
+  <img src="Output_Images/dataset-2-1.png" width="350" />
+  <img src="Output_Images/dataset-2-2.png" width="300" />
+  <img src="Output_Images/dataset-2-3.png" width="300" />
+</p>
+<p align="left">
+  <img src="Output_Images/GUI.png" width="500" />
+</p>
+
 
 ## Conclusion
 Our Deep Learning models present a pioneering approach to detecting Knee Osteoarthritis severity, providing a valuable tool for healthcare professionals. While challenges persist in dataset size and model complexity, our project stands as a noteworthy advancement in the realm of medical imaging analysis.
